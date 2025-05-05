@@ -1,3 +1,10 @@
+# Compilación y ejecución del programa:
+Ejecute el comando para compilar todo: make
+Tiene 2 opciones para ejecutar el programa: 
+./programa_imagen Bigimage.png salida.png -angulo 45 -escalar 1.5 -buddy  
+./programa_imagen Bigimage.png salida.png -angulo 45 -escalar 1.5 -no-buddy
+
+
 # preguntas de analisis y comparación de rendimiento entre la asignacion por medio de Buddy System y New-Delete.
 ## Ejecución de Imagen de 200x200 con Buddy System y con New/Delete.
 
